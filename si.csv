@@ -1,4 +1,4 @@
-ID;Datum;Stevilo_vseh;Stevilo_novih_bolnikov;testranih;novih_testov
+ID;Date;Confirmed;Confirmed_new;Tested;Tested_new
 1;05.03.2020;2;2;0;0
 2;06.03.2020;7;5;0;0
 3;07.03.2020;7;0;0;0
